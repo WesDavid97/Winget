@@ -1,1 +1,1 @@
-Comandos de terminal para a ferramenta winget do Windows
+Comandos de terminal para a ferramentas winget do Windows
