@@ -1,6 +1,8 @@
 @echo off
 
-echo.
+REM Cor da Fonte
+color A
+
 echo Executando...
 echo Exportando aplicativos...
 echo.
@@ -13,8 +15,8 @@ REM Executa o comando winget export
 winget export -o "%JSON_FILE%"
 REM Abre o Explorador de Arquivos e seleciona o arquivo JSON
 explorer /select , "%JSON_FILE%"
-	
 echo.
+
 echo %JSON_FILE% criado.
 echo.
 	

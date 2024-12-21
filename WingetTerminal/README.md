@@ -1,12 +1,12 @@
-Comandos terminal do Windows 
+# Winget terminal do Windows 
 
-ADMINSTRADOR: executavel ira gravar e procurar o arquivo JSON na pasta C:\Windows\System32 por padrao.
+* ADMINSTRADOR: executavel ira gravar e procurar o arquivo JSON na pasta C:\Windows\System32 por padrao.
 Os executaveis como Administrador iram ignorar as interrupções de sitema para permissões 
 de instalação de cada app.
 
-USUARIO LOCAL: executavel ira gravar o arquivo JSON na mesma pasta do executavel.
+* USUARIO LOCAL: executavel ira gravar o arquivo JSON na mesma pasta do    executavel.
 
-COMANDOS:
+* COMANDOS:
 -----------------------------------------------
 System32 colar JSON
 

@@ -1,4 +1,4 @@
-@ echo off
+@echo off
 
 explorer C:\Windows\System32
 

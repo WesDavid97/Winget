@@ -1,4 +1,4 @@
-@ echo off
+@echo off
 
 REM Define o caminho e nome do arquivo que você deseja localizar
 set FILE_NAME=MeusApps.json
