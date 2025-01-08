@@ -1,6 +1,5 @@
 @echo off
 
-REM Cor da Fonte
 color A
 
 echo Importando aplicativos arquivo JSON...

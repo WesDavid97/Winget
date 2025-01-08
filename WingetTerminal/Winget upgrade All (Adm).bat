@@ -1,10 +1,9 @@
 @echo off
 
-REM Cor da Fonte
 color A
 
 REM atualizar todos os pacotes instalados através do Windows Package Manager (winget).
-choice /M "Procurar e aplicar atualizacoes para todos Apps instalados "
+choice /M ">> Procurar e aplicar atualizacoes para todos Apps instalados "
 if errorlevel 2 (
 	echo.
 	echo Encerrando...
