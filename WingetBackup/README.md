@@ -6,7 +6,7 @@ de instalação de cada app.
 
 * USUARIO LOCAL: executavel ira gravar o arquivo JSON na mesma pasta do    executavel.
 
-* COMANDOS:
+# Arquivos em lotes:
 -----------------------------------------------
 System32 colar JSON
 
