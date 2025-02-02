@@ -1,0 +1,1 @@
+Lista contendo alguns aplicativos para instalação automatica.
