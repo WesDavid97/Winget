@@ -1,11 +1,9 @@
 @ echo off 
 
 color A
-echo  =====================
-echo  Lista de aplicativos:
-echo  =====================
-echo.
 
+echo == Biblioteca de softwares:
+echo.
 echo -- Microsoft Defender
 echo -- WhatsApp
 echo -- Telegram Desktop
