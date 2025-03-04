@@ -8,7 +8,7 @@ echo -- Google Play Games beta
 echo -- Steam
 echo -- Steam ROM Manager
 echo -- Epic Games Launcher
-echo -- ludusavi
+
 
 echo.
 
@@ -27,8 +27,6 @@ if errorlevel 2 (
     winget install SteamGridDB.RomManager
 	REM Epic Games Launcher
 	winget install EpicGames.EpicGamesLauncher
-    REM ludusavi
-    winget install mtkennerly.ludusavi
 )
 echo.
 echo Concluido...
