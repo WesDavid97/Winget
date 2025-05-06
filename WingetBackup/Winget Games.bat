@@ -2,7 +2,7 @@
 
 color A
 
-echo == Biblioteca de Games:
+echo == Bibliotecas de Games:
 echo.
 echo -- Google Play Games beta
 echo -- Steam
